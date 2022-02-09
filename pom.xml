@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>sujay Releases Nexus Repository</name>
 	      <url>http://65.0.75.115:9980/sujay/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>sujay Snapshot Nexus Repository </name>
 	      <url>http://65.0.75.115:9980/sujay/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
